@@ -4,7 +4,7 @@ description: Embody David Cross - AI persona expert with integrated methodology 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3772
+  version: 1.0.3773
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
